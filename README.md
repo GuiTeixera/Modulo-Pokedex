@@ -1,2 +1,8 @@
-# Projeto_Dev-2021
-Projeto Dev 2021
+# Projeto_Dev-2021_POKEDEX
+Projeto desvolvido consulmindo API usando as linguagens:
+
+-JAVASCRIPT
+-HTML
+-CSS
+
+Site RESPONSIVO.
